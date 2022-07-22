@@ -21,8 +21,8 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * Author: clement
- * Create: 2022/7/13
- * Desc: ETH gas price 小部件
+ * Create: 2022/7/22
+ * Desc:
  */
 public class TestWidgetProvider extends AppWidgetProvider {
 
